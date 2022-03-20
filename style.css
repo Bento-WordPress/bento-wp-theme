@@ -30,3 +30,8 @@ Emptytheme is distributed under the terms of the GNU GPL.
 .no-padding-bottom {
     padding-bottom: 0;
 }
+
+/* Custom Front Page CSS */
+.front-box {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
