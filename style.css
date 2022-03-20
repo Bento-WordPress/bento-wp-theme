@@ -16,19 +16,19 @@ Emptytheme is distributed under the terms of the GNU GPL.
 
 /* Custom CSS Utility classes */
 .no-margin-top {
-    margin-top: 0;
+    margin-top: 0 !important;
 }
 
 .no-margin-bottom {
-    margin-bottom: 0;
+    margin-bottom: 0 !important;
 }
 
 .no-padding-top {
-    padding-top: 0;
+    padding-top: 0 !important;
 }
 
 .no-padding-bottom {
-    padding-bottom: 0;
+    padding-bottom: 0 !important;
 }
 
 /* Custom Front Page CSS */
